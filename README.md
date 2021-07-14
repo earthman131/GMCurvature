@@ -12,7 +12,7 @@ Abstract—In work discussed in this paper the characteristics of both the most 
 
 The code being implemented in MATLAB, it requires the MATLAB software, which is licensed under the MathWorks sofware company. MATLAB can be downloaded at the following link https://www.mathworks.com/downloads/, and more information can be found about the license fee on the website.
 
-# usage
+# Usage
 
 To launch the program, it just requires to dowload ‘Matlab_Code’ from my repositories and execute the script GMCurvature.m on MATLAB. 
 
